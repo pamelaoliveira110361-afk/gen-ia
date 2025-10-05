@@ -1,0 +1,5 @@
+{
+  "name": "Analisador Genético e Diário Pet",
+  "description": "Uma plataforma de IA que identifica a raça de um animal e sua dieta ideal a partir de uma foto. Inclui autenticação de usuário e um sistema de anotações para salvar e gerenciar as análises.",
+  "requestFramePermissions": []
+}
